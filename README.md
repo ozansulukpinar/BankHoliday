@@ -11,7 +11,7 @@ A page built with using HTML, CSS and JavaScript
 
 ## General info
 
-This is a single page which shows bank holidays of this year and subsquent next two years for United Kingdom and Türkiye.
+This is a single page which shows bank holidays of this year and subsquent two years for United Kingdom and Türkiye.
 
 ## Technologies
 
