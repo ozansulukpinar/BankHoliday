@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Bank Holidays</title>
+  </head>
+
+  <body>
+    <button onclick="changeMode();">Dark Mode</button>
+    <br />
+    <div class="option">
+      <h2>Bank Holidays</h2>
+    </div>
+    <br />
+    <div class="option">
+      <input type="radio" id="uk" name="country" value="uk" checked="checked" />
+      <label for="uk">United Kingdom</label>
+      <input type="radio" id="tr" name="country" value="tr" />
+      <label for="tr">Türkiye</label>
+    </div>
+    <br />
+    <div class="option">
+      <select name="years" id="years"></select>
+    </div>
+    <br />
+    <div class="option">
+      <table id="BankHolidayTable"></table>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
