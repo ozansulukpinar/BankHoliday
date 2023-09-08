@@ -289,7 +289,19 @@
         "date": "2026-08-30",
         "notes": "",
         "bunting": false
-      }      
+      },
+      {
+        "title": "Republic Day",
+        "date": "2026-10-29",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "New Year’s Day",
+        "date": "2027-01-01",
+        "notes": "",
+        "bunting": true
+      }
     ]
   }
 }
