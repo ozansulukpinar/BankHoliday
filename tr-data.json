@@ -3,90 +3,6 @@
     "division": "all",
     "events": [
       {
-        "title": "Ramadan Feast Eve",
-        "date": "2023-04-20",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2023-04-21",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2023-04-22",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2023-04-23",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "National Sovereignty and Children's Day",
-        "date": "2023-04-23",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Labour and Solidarity Day",
-        "date": "2023-05-01",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Commemoration of Atatürk, Youth and Sports Day",
-        "date": "2023-05-19",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Sacrifice Feast Eve",
-        "date": "2023-06-27",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Sacrifice Feast",
-        "date": "2023-06-28",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Sacrifice Feast",
-        "date": "2023-06-29",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Sacrifice Feast",
-        "date": "2023-06-30",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Sacrifice Feast",
-        "date": "2023-07-01",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Democracy and National Unity Day",
-        "date": "2023-07-15",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Victory Day",
-        "date": "2023-08-30",
-        "notes": "",
-        "bunting": false
-      },
-      {
         "title": "Republic Day",
         "date": "2023-10-29",
         "notes": "",
@@ -289,7 +205,91 @@
         "date": "2026-01-01",
         "notes": "",
         "bunting": true
-      }
+      },      
+      {
+        "title": "Ramadan Feast Eve",
+        "date": "2026-03-19",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Ramadan Feast",
+        "date": "2026-03-20",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Ramadan Feast",
+        "date": "2026-03-21",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Ramadan Feast",
+        "date": "2026-03-22",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "National Sovereignty and Children's Day",
+        "date": "2026-04-23",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Labour and Solidarity Day",
+        "date": "2026-05-01",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Commemoration of Atatürk, Youth and Sports Day",
+        "date": "2026-05-19",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Sacrifice Feast Eve",
+        "date": "2026-05-26",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Sacrifice Feast",
+        "date": "2026-05-27",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Sacrifice Feast",
+        "date": "2026-05-28",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Sacrifice Feast",
+        "date": "2026-05-29",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Sacrifice Feast",
+        "date": "2026-05-30",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Democracy and National Unity Day",
+        "date": "2026-07-15",
+        "notes": "",
+        "bunting": false
+      },
+      {
+        "title": "Victory Day",
+        "date": "2026-08-30",
+        "notes": "",
+        "bunting": false
+      }      
     ]
   }
 }
