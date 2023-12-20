@@ -3,12 +3,6 @@
     "division": "all",
     "events": [
       {
-        "title": "Republic Day",
-        "date": "2023-10-29",
-        "notes": "",
-        "bunting": false
-      },
-      {
         "title": "New Year’s Day",
         "date": "2024-01-01",
         "notes": "",
