@@ -3,48 +3,6 @@
     "division": "all",
     "events": [
       {
-        "title": "New Year’s Day",
-        "date": "2024-01-01",
-        "notes": "",
-        "bunting": true
-      },
-      {
-        "title": "Ramadan Feast Eve",
-        "date": "2024-04-09",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2024-04-10",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2024-04-11",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Ramadan Feast",
-        "date": "2024-04-12",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "National Sovereignty and Children's Day",
-        "date": "2024-04-23",
-        "notes": "",
-        "bunting": false
-      },
-      {
-        "title": "Labour and Solidarity Day",
-        "date": "2024-05-01",
-        "notes": "",
-        "bunting": false
-      },
-      {
         "title": "Commemoration of Atatürk, Youth and Sports Day",
         "date": "2024-05-19",
         "notes": "",
